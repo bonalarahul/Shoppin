@@ -100,6 +100,6 @@ Feel free to contribute improvements! Open an issue or submit a pull request on 
 
 ---
 
-**Developed by:** Your Name  
+**Developed by:** Bonala Rahul 
 **Date:** 2025
 
